@@ -1,0 +1,9 @@
+# Your answers and secrets (written by scripts/setup.ps1)
+setup.json
+scripts/.env
+scripts/logs/
+
+# Obsidian per-device state
+.obsidian/workspace*.json
+.obsidian/cache
+.trash/
